@@ -1,4 +1,4 @@
-# Pedido de Namoro
+# Pedido de Namoro ❤
 
 # ⬇️ How to use it on your computer
 
