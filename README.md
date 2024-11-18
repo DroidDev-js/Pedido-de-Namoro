@@ -19,4 +19,4 @@ git clone https://github.com/DroidDev-js/Pedido-de-Namoro
 - JavaScript
 - CSS
 
-![imagem_2024-11-17_230950774](https://github.com/user-attachments/assets/27b1c0fc-4e61-47a0-b471-816bba92b31f)
+![imagem_2024-11-17_231038914](https://github.com/user-attachments/assets/49856cfc-e617-4088-88ec-29315e3cfc8a)
